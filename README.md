@@ -5,7 +5,7 @@ iOS Developer
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NaStillmatic) 
 ![profile views](https://komarev.com/ghpvc/?username=NaStillmatic&label=Profile%20views&color=3a75fd&style=flat)
                               
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic)](https://github.com/anuraghazra/github-readme-stats)
+[![NaStillmatic github stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic)](https://github.com/NaStillmatic/github-readme-stats)
 
 
 
