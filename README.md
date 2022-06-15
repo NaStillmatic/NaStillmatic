@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 🧑🏻‍💻
 
-iOS Developer
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NaStillmatic) 
 ![profile views](https://komarev.com/ghpvc/?username=NaStillmatic&label=Profile%20views&color=3a75fd&style=flat)
@@ -8,6 +7,8 @@ iOS Developer
 [![NaStillmatic github stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic)](https://github.com/anuraghazra/github-readme-stats)
 
 
+- 💼 스크래핑 SDK 개발하는 회사에 다니고 있어요.
+- 🌱 SwiftUI와 RxSwift를 공부하고있어요.
 
 ### Languages
 
