@@ -3,8 +3,8 @@
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NaStillmatic) 
 ![profile views](https://komarev.com/ghpvc/?username=NaStillmatic&label=Profile%20views&color=3a75fd&style=flat)
-                              
-[![NaStillmatic github stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![NaStillmatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic&count_private=true&show_icons=true&theme=material-palenigh)
 
 
 - 💼 스크래핑 SDK 개발하는 회사에 다니고 있어요.
