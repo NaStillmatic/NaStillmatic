@@ -12,8 +12,8 @@
 
 ### Languages
 
-![icon](https://www.vectorlogo.zone/logos/swift/swift-icon.svg) 
-![icon](https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg)
+![icon](https://img.shields.io/badge/ObjectiveC-blue?style=flat&logo=xcode&logoColor=white)
+![icon](https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white)
 
 
 ### Social
