@@ -18,6 +18,6 @@
 
 ### Social
 
-<a href="https://nastillmatic.github.io" target="_blank"><img src="http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github"/></a>
-<a href="https://www.linkedin.com/in/nastillmatic" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://nastillmatic.github.io" target="_blank"><img src="http://img.shields.io/badge/-Blog-black?style=flat&logo=github"/></a>
+<a href="https://www.linkedin.com/in/nastillmatic" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 
