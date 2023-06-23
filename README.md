@@ -7,7 +7,7 @@
 ![NaStillmatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic&count_private=true&show_icons=true&theme=material-palenight&bg_color=00000000)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaStillmatic&theme=tokyonight_duo&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NaStillmatic&theme=material-palenight&bg_color=00000000&hide_border=false)](https://git.io/streak-stats)
 
 
 
@@ -18,6 +18,9 @@
 
 ![icon](https://img.shields.io/badge/ObjectiveC-blue?style=flat&logo=xcode&logoColor=white)
 ![icon](https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastillmatic&theme=material-palenight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Social
