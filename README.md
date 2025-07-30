@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&section=header&text=Hi%20there%20👋&fontSize=60&height=170&animation=fadeIn&show_icons=true)
 
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NaStillmatic) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NaStillmatic) 
 ![profile views](https://komarev.com/ghpvc/?username=NaStillmatic&label=Profile%20views&color=3a75fd&style=flat)
 
 ![NaStillmatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaStillmatic&count_private=true&show_icons=true&theme=material-palenight&bg_color=00000000)
